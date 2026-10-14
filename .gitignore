@@ -1,8 +1,13 @@
-﻿.venv/
+.venv/
 venv/
 ENV/
 __pycache__/
 *.pyc
 .env
+storage/
+*.db
+*.sqlite
+*.sqlite3
 .DS_Store
 Thumbs.db
+
